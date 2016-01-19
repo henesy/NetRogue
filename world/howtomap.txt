@@ -1,0 +1,9 @@
+Coordinates:
+world/1/2/3.map would be identified as Y:1 X:2 Z:3 
+
+Options: 
+scheme - chooses a color scheme out of the colors/ folder
+
+
+
+

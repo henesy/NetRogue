@@ -1,0 +1,9 @@
+- write everything for release 1.0
+- perhaps convert all Colors/ entries to Themes/ ?
+- make a series of functional pre-game menus for handling connections and options
+- make a series of useful in-game menus for handling connections and options
+- make a character creation menu which can be launched as a function for both solo and multi-player play
+	- allow a color swatch for choosing both default foreground and background colors for the player
+- support a "passcode" feature for connecting to a game (maybe just a PIN?)
+- support saving of players and their passcode/pin-locking for stashing within the players/ folder
+

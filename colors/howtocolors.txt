@@ -1,0 +1,5 @@
+Colors are applied to map files during encoding in the following order:
+global.color -> n.color
+
+Colors are defined in the following format:
+rune:color:description
