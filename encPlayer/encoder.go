@@ -4,6 +4,7 @@ import (
     "fmt"
     "encoding/json"
 tb  "github.com/nsf/termbox-go"
+nr  "netrogue"
 )
 
 /* all custom types and sprites must be synchronized/matched with

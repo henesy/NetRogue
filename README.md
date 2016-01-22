@@ -16,4 +16,5 @@ All sprites should have a foreground and background color encoded into them, whe
 
 ## Usage
 Run: `go generate` to build all binaries and place them in the current working directory.
+
 All binaries should be executed from the base NetRogue/ directory.

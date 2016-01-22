@@ -6,4 +6,5 @@
 	- allow a color swatch for choosing both default foreground and background colors for the player
 - support a "passcode" feature for connecting to a game (maybe just a PIN?)
 - support saving of players and their passcode/pin-locking for stashing within the players/ folder
+- move all standard struct types/functions/method to the net-rogue package
 
